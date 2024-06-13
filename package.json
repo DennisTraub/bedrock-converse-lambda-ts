@@ -1,0 +1,13 @@
+{
+  "main": "converse.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.596.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
