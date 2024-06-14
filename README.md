@@ -36,7 +36,7 @@
 
 ### Using 7z
 
-**1. Zip the Lambda function code with 7c:**
+**1. Zip the Lambda function code with 7z:**
   ```bash
   7z a function.zip .
   ```
